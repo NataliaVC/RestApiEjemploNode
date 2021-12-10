@@ -1,0 +1,26 @@
+[{
+        "id": 1,
+        "title": "Flashback",
+        "director": "John Cena",
+        "year": "1990",
+        "rating": "8,5",
+        "img": "https://es.web.img3.acsta.net/pictures/21/04/23/22/00/0364927.jpg"
+    }, {
+        "id": 2,
+        "title": "Apocalypto",
+        "director": "Mel Gibson",
+        "year": "1995",
+        "rating": "9",
+        "img": "https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/36/26/80/18837905.jpg"
+    },
+    {
+        "id": 3,
+        "title": "La familia Belier",
+        "director": "XXXX",
+        "year": "1990",
+        "rating": "9.5",
+        "img": "https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/36/26/80/18837905.jpg"
+
+    }
+
+]
